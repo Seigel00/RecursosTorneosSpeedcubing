@@ -1,0 +1,11 @@
+Abre el fichero de la pestaña que quieras
+
+Utiliza Buscar y Reemplazar (Ctrl+R en el bloc de notas) para buscar "NOMBREDELOPEN" y reemplazarlo por lo que aparezca en la URL de tu web, que será "https://www.worldcubeassociation.org/competitions/ESTOESLOQUETIENESQUEREEMPLAZAR"
+
+Clic en Reemplazar todo
+
+Copia todo el bloc de notas (Ctrl+E; Ctrl+C)
+
+Pegalo en la web
+
+Cierra el bloc de notas sin guardar (para que puedas repetir el proceso)

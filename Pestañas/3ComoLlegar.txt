@@ -1,0 +1,59 @@
+#![](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2xmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fb9427185f5aec86ae1a15c2b665f005bc7c1e99/espa%C3%B1a.png) **Español**
+
+## Ubicación exacta
+
+Link a Maps
+
+## Llegar a la ciudad X
+
+### En coche
+
++ **Desde X**
+Tomando la A-92M y A-92 dirección Granada.
+
+### En tren
+
++ Indicar Renfe
+
+### En autobús
+
++ Indicar estacion autobuses
+
+### En avión
+
++ Indicar aeropuerto
+
+## Llegar a la competición
+
+### En coche
+
+### En transporte público
+
+#![](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3BmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ff755f769b48f4217b0ccb3f4cda312dd4c1cae8/reino%20unido.png) **English** 
+
+## Exact location
+
+Link a Maps
+
+## Arrive to the City X
+
+### By car
+
++ **From X**
+
+### By train
+
+### By bus
+
+### By plane
+
+## Arrive to the competition's venue
+
+### By car
+
+### By public transport
+
+
+
+
+

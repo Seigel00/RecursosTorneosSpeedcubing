@@ -1,0 +1,39 @@
+#![](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUJmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f043e88f270b3fc1b29b06358703e492c3267927/espa%C3%B1a.png) **Español**
+
+## Funcionamiento de la lista de espera
+
+Una vez se alcance el límite de competidores, las personas que se registren y abonen la cuota de inscripción entrarán en la lista de espera. Si algún competidor cuyo registro fue aceptado decide cancelar su inscripción, la primera persona de la lista de espera será aceptada en la competición. Puedes ver la lista de espera al final de esta sección (ten en cuenta que debemos actualizarla manualmente, así que es posible que tardemos un poco en hacerlo).
+
+Si quieres borrar tu registro, por favor contáctanos. Puedes encontrar nuestra información de contacto en la pestaña de [Información General](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#general-info).
+
+## Política de devoluciones
+
+* Si cancelas tu registro antes del XXXXXXX, se te devolverá el YY% de tu cuota de inscripción, tanto si el registro estaba aceptado como si estaba en lista de espera.
+* Si cancelas tu registro después del XXXXX, no se te devolverá la cuota de inscripción, tanto si el registro estaba aceptado como si estaba en lista de espera.
+* **Si tras finalizar la competición tu registro sigue en lista de espera, se te devolverá el 100% de tu cuota de inscripción.**
+
+_____________________________________________________________________________________________
+#![](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUZmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--536e7c2ba6ae7c2dddf0804463128b939aa88d4e/reino%20unido.png) **English**
+
+## How does the waiting list work?
+
+Once the competitor limit is reached, the people that register for the competition and pay the inscription fee will enter the waiting list. If any competitor whose registration was accepted decides to cancel their registration, the first person in the waiting list will be accepted in the competition. You can see the waiting list at the end of this tab (be aware that we need to update the waiting list manually, so we may take some time)
+
+If you want to delete your registration, please contact us. You can find our contact information in the [General Info](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#general-info) tab.
+
+## Refund policy
+
+* If you delete your registration before XXXXX, you will be refunded the YY% of your registration fee, whether you were accepted or in the waiting list.
+* If you delete your registration after XXXXX, you will not be refunded your registration fee, whether you were accepted or in the waiting list.
+* **If your registration is still in the waiting list when the competition ends, you will be refunded the 100% of your registration fee** 
+
+________________________________________________________
+
+#**Lista de espera | Waiting list**
+
+| Nombre / Name | 
+| -------- |
+| Text  |
+
+Actualizado / Updated: 
+

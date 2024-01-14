@@ -1,0 +1,82 @@
+##![](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2xmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fb9427185f5aec86ae1a15c2b665f005bc7c1e99/espa%C3%B1a.png) **Español**
+
+**P: ¿Cómo me registro?**
+R: En primer lugar tienes que asegurarte de que tengas creada una cuenta de la WCA. Si no tienes una, puedes creártela de manera muy sencilla haciendo click [aquí](https://www.worldcubeassociation.org/users/sign_up). Ten en cuenta que los **datos personales** de la cuenta deben ser **de la persona que vaya a competir**, no de sus tutores legales. Una vez hayas creado la cuenta y confirmado el correo electrónico de la misma, ve a la pestaña [Registrarse](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN/register) y sigue los pasos correspondientes.
+
+**P: ¿Por qué no aparezco en la lista de competidores?**
+R: Por favor, asegúrate de haber seguido todas las instruciones de la pestaña [Registrarse](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN/register). La lista de competidores aparece en la página de [Registro](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN/edit/registrations). También es posible que estés en la [lista de espera](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#38938-lista-de-espera-y-devoluciones-waiting-list-and-refunds) si se ha alcanzado el límite de competidores, que puedes consultar en la pestaña [Información General].(https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#general-info). Si crees haber hecho todo correctamente y aun así no apareces, ten paciencia. Los registros se aprueban de manera manual y los delegados y organizadores no estamos disponibles en todo momento. Si tu registro no se ha aceptado pasados dos días, contacta con nosotros. Puedes encontrar nuestra información de contacto en la pestaña de [Información General](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#general-info).
+
+**P: ¿Puedo cambiar los eventos a los que me presento?**
+R: Sí. Puedes editarlo en la pestaña [Registrarse](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN/register) hasta el cierre del registro.
+
+**P: Ya no puedo asistir, ¿qué debo hacer?**
+R: Lo primero que tienes que hacer es informarnos tan pronto como lo sepas para que otro competidor pueda ocupar tu lugar. Puedes encontrar nuestra información de contacto en la pestaña de [Información General](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#general-info). Una vez dado de baja tu registro, la organización gestionará el reembolso de parte de tu cuota de registro. Puedes ver el porcentaje que se te devolverá en la pestaña [Lista de Espera y Devoluciones](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#38938-lista-de-espera-y-devoluciones-waiting-list-and-refunds).
+
+**P: ¿Cómo de rápido tengo que ser para poder competir?**
+R:  Te recomendamos que mires la pestaña de [Categorías](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#competition-events) para informarte de los tiempos límite de cada prueba. La mayoría de gente va a las competiciones para conocer a gente con la que comparten esta afición sin importar los tiempos o sencillamente a tratar de mejorar sus propios tiempos personales, ¡todo el mundo es apto para competir y pasarlo bien!
+
+**P: ¿Hay categorías para diferentes edades?**
+R: Todos los competidores participan en las mismas condiciones y participantes de todas las edades son bienvenidos. La mayoría de gente suele tener entre 10 y 20 años, pero también hay gente más joven y más mayor.
+
+**P: ¿Tengo que usar mis propios cubos para competir?**
+R: ¡Sí! Asegúrate de traer puzzles para todos los eventos en los que compitas y no los pierdas de vista. La organización no proporcionará puzzles a los competidores. Para más información consulta la [Regla 3a](https://www.worldcubeassociation.org/regulations/#3a).
+
+**P: ¿Puedo ir simplemente como espectador?**
+R: Sí, además la entrada es completamente gratuita para los espectadores. Echa un vistazo al [horario](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#competition-schedule) del campeonato para que puedas venir a ver los eventos que más te interesen o enterarte de cuándo son las finales.
+
+**P: ¿Puedo ayudar en la competición aunque sea un espectador?**
+R: ¡Sí! Siempre agradecemos que haya voluntarios para hacer de juez o runner. Si no sabes muy bien cómo puedes ayudar pero quieres echar una mano, habla con alguien del equipo organizador el día de la competición para que te indiquemos.
+
+**P: ¿Cuándo debo estar en el campeonato?**
+R: Recomendamos que vengas durante los periodos de registro que hay asignados en el [horario](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#competition-schedule). Durante ese periodo podrás recoger tu acreditación y los regalos que daremos junto a la inscripción. Si eres un nuevo competidor, te recomendamos encarecidamente que asistas al tutorial de competición que haremos el sábado a primera hora. Si no, procura estar en el lugar de la competición siempre al menos 15 minutos antes de que empiece la primera ronda en la que compitas.
+
+**P: ¿Qué debo hacer cuando llegue?**
+R: Si eres un nuevo competidor, no te pierdas el tutorial, por favor. Podrás recoger tu acreditación más adelante. Si no, lo primero que hay que hacer es ir a la mesa de registro para que te podamos dar los regalos de inscripción y la acreditación.
+
+**P: ¿Debo estar durante todo el campeonato?**
+R: Sólo es necesario que estés cuando tengas que competir o hacer de juez/runner/mezclador.
+
+**P: ¿Dónde miro los resultados y si paso a la siguiente ronda?**
+R: Los tiempos y clasificaciones de la competición se subirán a esta página unos días después de la competición. Los resultados en directo los encontrarás en [WCA Live](https://live.worldcubeassociation.org).
+_____________________________________________________________________________________________
+##![](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3BmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ff755f769b48f4217b0ccb3f4cda312dd4c1cae8/reino%20unido.png) **English**        
+
+**Q: How do I register?**
+A: First you need to make sure you have created a WCA account. You can create an account by going to the [sign-up](https://www.worldcubeassociation.org/users/sign_up) page. Keep in mind that the personal information of the account must be the competitor's, not their parent or guardian's. Once you have created the account and confirmed your email address, go to the [Register](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN/register) section and follow the instructions carefully.
+
+**Q: Why am I not on the registration list yet?**
+A: Please make sure that you have followed the instructions in the [Register](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN/register) section. The list of accepted competitors can be found on the [Registration](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN/edit/registrations) page. You could also be on the [waiting list](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#38938-lista-de-espera-y-devoluciones-waiting-list-and-refunds) if the competitor limit has been reached. The competitor limit can be found on the [General Info](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN) tab. If you have done everything correctly and the competition is not full, then please be patient. We have to manually approve registrations and the organisers aren't available all the time. If you believe you have followed the steps correctly but still are not on the registration list after 2 days, then feel free to email us at the contact link on the [General Info](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN) tab.
+
+**Q: Can I change the events I am registered for?**
+A: Yes. You can change them [here](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN/register) until the end of the registration period.
+
+**Q: I am no longer able to attend, what should I do?**
+A: The first thing you need to do is tell us as soon as you know. Competitions generally fill up quite quickly and letting us know that you can't attend means we can add someone from the waiting list. You can find our contact information in the [General Info](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN) tab. Once your registration is deleted, the organization team will manage the refund of part of your registration fee, which will probably happen after the competition has ended. You can see the percentage that will be refunded [here](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#38938-lista-de-espera-y-devoluciones-waiting-list-and-refunds).
+
+**Q: How fast do I have to be to compete?**
+A: We recommend that you check out the [Events](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#competition-events) tab to see the time limits and cutoffs for each event. Loads of people come to competitions just to beat their own personal bests, and meet likeminded people, with no intention of winning or even making it past the first round. Everyone is welcome to compete and have fun!
+
+**Q: Are there different age categories?**
+A: All competitors compete on the same level and all ages are welcome. In general most competitors are aged between 10 and 20 years old, but we have plenty of regulars who are older or younger than this!
+
+**Q: Do I use my own cubes to compete?**
+A: Yes! Make sure to bring cubes for all events you are competing in and look after them, you don't want them to go missing. The organization team will not provide cubes to the competitors. If you want to know more, please refer to [Regulation 3a](https://www.worldcubeassociation.org/regulations/#3a).
+
+**Q: Can I come only to spectate?**
+A: Yes! Spectating this competition will be free for everyone. Take a look at the [schedule](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#competition-schedule) to come to see the events you are more interested in or to know when the finals are happening.
+
+**Q: Can I help out in the competition if I'm a spectator?**
+A: Yes! We always appreciate that people volunteer to be judges or runners. If you are not sure about how you can help out, please reach out to someone of the organisation team during the event so that we can assist you.
+
+**Q: When do I need to arrive at the competition?**
+A: We recommend you to register on the time frames dedicated to that regard, which you can find on the [schedule](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN#competition-schedule) tab. If you are a new competitor, we highly recommend that you show up for the tutorial for begginners which is held first thing in the morning on Saturday. Otherwise, we recommend you turn up at least 15 minutes before your first event.
+
+**Q: What should I do when I arrive?**
+A: If you are a new competitor, don't miss the tutorial, please. You will be able to collect your accreditation later. Else, the first thing you should do when you arrive is find the registration desk if registration is open.
+
+**Q: When can I leave the competition?**
+A: It's only necessary to stay when you have to compete or be a judge/runner/scrambler.
+
+**Q: How do I find results and know if I qualified for the next round of an event?**
+A: All results will be found on this page a couple of days after the competition, once they have all been checked and uploaded. If you are looking for live results, they can all be found on [WCA Live](https://live.worldcubeassociation.org).
+_____________________________________________________________________________________________
