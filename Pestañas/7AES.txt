@@ -1,4 +1,4 @@
-#![](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2xmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fb9427185f5aec86ae1a15c2b665f005bc7c1e99/espa%C3%B1a.png) Asociación Española de Speedcubing
+#![Bandera ESP](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0E5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c7812c9b5d2929fb4ed7644517bf4f9800a3d1e4/esp.png) Asociación Española de Speedcubing
 
 ## ¿Qué es?
 La [Asociación Española de Speedcubing](https://www.speedcubingspain.org/) (AES) es una asociación sin ánimo de lucro destinada a organizar, colaborar y difundir los eventos y actividades relacionadas con el mundo del speedcubing en España. Estas actividades se centran en:
@@ -35,7 +35,7 @@ Como organización sin ánimo de lucro que funciona con voluntarios al 100%, agr
 
 ____________________________________________________________________________________
 
-#![](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3BmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ff755f769b48f4217b0ccb3f4cda312dd4c1cae8/reino%20unido.png) Spanish Speedcubing Association
+#![Bandera UK](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0U5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2a28e3c285bf55a2606838971abb0514d0ef172c/UK.png)  Spanish Speedcubing Association
 
 ## Who are we?
 

@@ -1,4 +1,4 @@
-##![](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2xmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fb9427185f5aec86ae1a15c2b665f005bc7c1e99/espa%C3%B1a.png) **Español**
+#![Bandera ESP](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0E5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c7812c9b5d2929fb4ed7644517bf4f9800a3d1e4/esp.png) **Español**
 
 **P: ¿Cómo me registro?**
 R: En primer lugar tienes que asegurarte de que tengas creada una cuenta de la WCA. Si no tienes una, puedes creártela de manera muy sencilla haciendo click [aquí](https://www.worldcubeassociation.org/users/sign_up). Ten en cuenta que los **datos personales** de la cuenta deben ser **de la persona que vaya a competir**, no de sus tutores legales. Una vez hayas creado la cuenta y confirmado el correo electrónico de la misma, ve a la pestaña [Registrarse](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN/register) y sigue los pasos correspondientes.
@@ -39,7 +39,7 @@ R: Sólo es necesario que estés cuando tengas que competir o hacer de juez/runn
 **P: ¿Dónde miro los resultados y si paso a la siguiente ronda?**
 R: Los tiempos y clasificaciones de la competición se subirán a esta página unos días después de la competición. Los resultados en directo los encontrarás en [WCA Live](https://live.worldcubeassociation.org).
 _____________________________________________________________________________________________
-##![](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3BmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ff755f769b48f4217b0ccb3f4cda312dd4c1cae8/reino%20unido.png) **English**        
+#![Bandera UK](https://www.worldcubeassociation.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0U5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2a28e3c285bf55a2606838971abb0514d0ef172c/UK.png)  **English**        
 
 **Q: How do I register?**
 A: First you need to make sure you have created a WCA account. You can create an account by going to the [sign-up](https://www.worldcubeassociation.org/users/sign_up) page. Keep in mind that the personal information of the account must be the competitor's, not their parent or guardian's. Once you have created the account and confirmed your email address, go to the [Register](https://www.worldcubeassociation.org/competitions/NOMBREDELOPEN/register) section and follow the instructions carefully.
